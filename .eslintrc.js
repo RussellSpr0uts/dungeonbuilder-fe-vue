@@ -32,7 +32,7 @@ module.exports = {
     'vue/v-on-style': 2,
     'vue/no-multi-spaces': 2,
     'vue/name-property-casing': 2,
-    'no-unused-vars': false,
+    'no-unused-vars': 0,
     'vue/order-in-components': [
       'error',
       {
